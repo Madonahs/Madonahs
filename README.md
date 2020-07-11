@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-Welcome to my timeline. My name is Madona Syombua and I enjoy building Mobile Applications. 
+Welcome to my timeline. My name is Madona Syombua and I enjoy building Mobile Applications using Kotlin | I still play with Java but we had to part ways. 
 
 - 🌱 I’m currently learning Machine Learning, and I love it so far.
 - You can download my app Budgeting Buddy here [Budgeting Buddy](https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy)
