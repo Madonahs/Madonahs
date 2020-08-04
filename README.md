@@ -18,6 +18,6 @@ Welcome to my timeline. My name is Madona Syombua, and I enjoy building Mobile A
 </center>
 
   
-  - You can download my app Budgeting Buddy here [Budgeting Buddy](https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy)
+ ## You can download my app Budgeting Buddy here [Budgeting Buddy](https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy)
 
 
