@@ -9,8 +9,8 @@ Welcome to my timeline. My name is Madona Syombua, and I enjoy building Mobile A
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madonahs&hide=html)
 ![](https://github-readme-stats.vercel.app/api?username=madonahs&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madonahs&hide=html)
 
  ## Download [Budgeting Buddy](https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy)
 
