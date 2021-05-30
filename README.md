@@ -5,7 +5,6 @@
 </h4>
 <p align="left">
 My name is Madona Syombua, and I enjoy building Mobile Applications using Kotlin.
- 🌱 I’m currently learning Machine Learning on my free time, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
 
