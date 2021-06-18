@@ -19,6 +19,4 @@ My name is Madona Syombua, and I enjoy building Mobile Applications using Kotlin
  ## Get Budgeting Buddy 
  <a href="https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy"><img src="https://user-images.githubusercontent.com/11560987/122619637-801bc300-d056-11eb-8eff-97dfdf336675.png" height="180" width="180"></a>	
 </p>
-
-
-
+	
