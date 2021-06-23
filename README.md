@@ -8,7 +8,7 @@ My name is Madona Syombua, and I enjoy building Mobile Applications using Kotlin
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
 
-[![Madona's github stats](https://github-readme-stats.vercel.app/api?username=madonahs&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/madonahs?tab=repositories)
+![](https://github-readme-stats.vercel.app/api?username=madonahs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madonahs&layout=compact&theme=radical)](https://github.com/madonahs?tab=repositories)
 	
