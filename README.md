@@ -8,11 +8,7 @@ My name is Madona S. Wambua, and I enjoy building Mobile Applications using Kotl
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
 
-
-<h3>Where to find me</h3>
-</a><a href="https://twitter.com/madona_wambua" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/madona-wambua" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
-	
-------------
-<a href="https://youtube.com/c/MadonaSyombua"><img src="https://user-images.githubusercontent.com/11560987/104072012-e232eb00-51cf-11eb-8428-121ad561b6b8.png" height="50" width="130" alt="YouTube">
+<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Madonahs&show_icons=true&theme=gruvbox&count_private=true" alt="Madonahs's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+    
