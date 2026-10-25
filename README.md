@@ -11,7 +11,7 @@ My name is Madona S. Wambua, and I enjoy building Mobile Applications using Kotl
 ## Explore my public facing projects here 
 1. [MAI iOS](https://apps.apple.com/us/app/mama-assistant-mai/id6756977917)
 2. [MAI Android](https://play.google.com/store/apps/details?id=com.mamaassistant.app)
-3. Schools & Careers --- Coming soon
+3. [Schools & Careers](https://schoolsandcareers.com/)
 4. [Budgeting Buddy](https://play.google.com/store/apps/details?id=com.madonasyombua.budgetbuddy&hl=en)
 
     
